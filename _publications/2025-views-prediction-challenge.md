@@ -10,4 +10,4 @@ citation: 'Hegre, H., Vesco, P., Colaresi, M., Vestby, J., et al. (2025). The 20
 ---
 This article presents the goals and motivation of the 2023/24 VIEWS Prediction Challenge, the evaluation metrics used to assess forecasts, the benchmark models, and a summary of the submitted contributions. Co-authored with Håvard Hegre, Paola Vesco, Michael Colaresi, Jonas Vestby, and many other participants of the challenge.
 
-[Open-access version here](https://doi.org/10.5445/IR/1000184072)
+[Available here](https://doi.org/10.1177/00223433241300862)
